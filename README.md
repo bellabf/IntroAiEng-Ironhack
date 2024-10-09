@@ -1,6 +1,6 @@
 # Introduction to AI and Prompt Engineering
 
-Welcome to this beginner-friendly introduction to Artificial Intelligence (AI) and prompt engineering! This repository contains resources to help you get started with some basic AI concepts and tools as well some information about the AI Engineering Bootcamp from Ironhack.
+Welcome to the start of your journey into AI engineering. This repository contains resources to help you get started with some basic AI concepts and tools as well some information about the AI Engineering Bootcamp from Ironhack.
 
 ## Contents
 
