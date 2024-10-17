@@ -8,6 +8,7 @@ Welcome to the start of your journey into AI engineering. This repository contai
 2. `setup-hf-account.pdf`: Guide to creating a Hugging Face account
 3. `chatbot.pdf`: Steps to create a simple chatbot using Hugging Face Chat
 4. `ExamplePrompt.ipynb`: Jupyter notebook with an example of using OpenAI's API (a degree of difficulty above the third pdf).
+5. `Ironhack Seminar.pdf`: Power Point presentation.
 
 ## Getting Started
 
